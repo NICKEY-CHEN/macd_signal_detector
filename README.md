@@ -1,2 +1,1 @@
-# macd_signal_detector
-This is a macd signal detector, which detects dif, dea and histogram. 
+This is a macd signal detector, which detects dif, dea and histogram. Note that you should type words like '000001.SZ', or it returns notings.
