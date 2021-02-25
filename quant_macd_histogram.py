@@ -95,7 +95,7 @@ class detect_macd_histogram():
 
 #
 # if __name__ == '__main__':
-#     ts.set_token('b1e513696c465675d9b83754bef0e630987c989ffbc8b48779551c99')
+#     ts.set_token('')
 #     pro = ts.pro_api()
 #     code = '002340.SZ'
 #     begin_date = '20200709'
